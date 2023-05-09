@@ -4,7 +4,6 @@
 ### 
 - Video player with quality selector.
 - Video source in `blob` type.
-<br>
 ![screenshot](./Screenshot.png)
 
 ---
